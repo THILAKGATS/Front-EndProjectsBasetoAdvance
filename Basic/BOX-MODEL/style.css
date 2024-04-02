@@ -1,0 +1,16 @@
+div{
+    /* border-width :10px;
+    border-color: aqua;
+    border-style:groove;
+    padding:10px;
+    margin:50px; */
+    /* border: 2px dotted aqua; */
+    /* border-top:2px solid red;
+    border-bottom:2px groove teal;
+    border-left:2px solid yellow;
+    border-right: 2px solid blue; */
+
+    border: 2px solid crimson;
+    padding: 20px 50px;
+    margin:0px 100px;
+}   

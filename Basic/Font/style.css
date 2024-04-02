@@ -1,0 +1,14 @@
+h2{
+    font-family:fantasy;
+}
+p{
+    font-size:30px;
+    text-transform: capitalize;
+    line-height: 30px;
+    word-spacing: 10px;
+    
+}
+.dec{
+    text-decoration: underline;
+    cursor: col-resize;
+}
